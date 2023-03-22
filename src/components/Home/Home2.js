@@ -19,7 +19,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              A Frontend Engineer with 4+ years of experience developing and maintaining web applications with an eye for clean, elegant, and meaningful UI 🤷‍♂️
+              A Frontend Engineer with 5+ years of experience developing and maintaining web applications with an eye for clean, elegant, and meaningful UI 🤷‍♂️
               <br />
               <br />I am fluent in classics like
               <i>

@@ -11,7 +11,7 @@ pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/$
 // const resumeLink =
 //   "https://raw.githubusercontent.com/soumyajit4419/portfolio/master/src/Assets/Soumyajit_Behera-BIT_MESRA.pdf";
 const resumeLink =
-  "http://localhost:3000/static/media/S.Bilal_CV.38de32f1f2309c5d5aaf.pdf";
+  "https://pdfhost.io/v/rWWRMI6wa_Syed_Bilal";
 
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
